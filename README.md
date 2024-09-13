@@ -1,3 +1,3 @@
-Scattered Boxplots
+**Scattered Boxplots**
 When visualizing experimental results, scattered boxplots offer a clear and effective way to represent data distributions while also showcasing individual data points. In this tutorial, we'll explore how to create scattered boxplots using Python's powerful libraries: Matplotlib, Seaborn, and Pandas.
 We'll begin by generating a small dataset, simulating what could be real-world results from a classification experiment. For this demonstration, imagine we've run four different algorithms, and each produced a set of classification accuracies ranging between 65 and 95 percent. These results are stored in four separate columns, each containing twenty accuracy values and labeled with simple headings. This kind of dataset is typical of what might be read from an Excel file during the analysis of machine learning experiments.
